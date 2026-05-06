@@ -17,10 +17,10 @@ import pandas as pd
 DATASET_API = "https://www.data.gouv.fr/api/1/datasets/5c34944606e3e73d4a551889/"
 
 RESOURCE_KEYWORDS = {
-    "deputes":       "elus-deputes",
-    "municipaux":    "elus-conseillers-municipaux",
-    "departementaux":"elus-conseillers-departementaux",
-    "regionaux":     "elus-conseillers-regionaux",
+    "deputes":        "deputés",
+    "municipaux":     "municipaux",
+    "departementaux": "départementaux",
+    "regionaux":      "régionaux",
 }
 
 def fetch_latest_urls() -> dict:
@@ -29,9 +29,18 @@ def fetch_latest_urls() -> dict:
     r.raise_for_status()
     resources = r.json().get("resources", [])
 
+    # Debug : afficher tous les titres disponibles
+    print("  Ressources disponibles :")
+    for res in resources:
+        print(f"    - {res.get('title', '(sans titre)')}")
+
     urls = {}
     for key, keyword in RESOURCE_KEYWORDS.items():
-        match = next((res["url"] for res in resources if keyword in res.get("url", "")), None)
+        match = next(
+            (res.get("latest") or res.get("url") for res in resources
+             if keyword.lower() in res.get("title", "").lower()),
+            None
+        )
         if not match:
             raise ValueError(f"Ressource introuvable pour : {keyword}")
         print(f"  {key}: {match}")
