@@ -1,0 +1,344 @@
+﻿nom,prenom,date_naissance,sexe,dept_depute_code,dept_depute_libelle,num_circo,libelle_circo,date_debut_mandat_depute,type_mandat_local,libelle_territoire,libelle_fonction_locale,date_debut_mandat_local
+BRETON,Xavier,1962-11-25,M,1,Ain,101,1Ère Circonscription,2024-07-08,Région,Auvergne-Rhône-Alpes,,2021-07-02
+DAUBIÉ,Romain,1980-05-05,M,1,Ain,102,2Ème Circonscription,2024-07-08,Département,Ain,,2021-07-01
+BUISSON,Jérôme,1973-01-15,M,1,Ain,104,4Ème Circonscription,2024-07-08,Région,Auvergne-Rhône-Alpes,,2021-07-02
+BUISSON,Jérôme,1973-01-15,M,1,Ain,104,4Ème Circonscription,2024-07-08,Commune,Bourg-En-Bresse (Ain),,2026-03-15
+CHAVENT,Marc,1968-06-28,M,1,Ain,105,5Ème Circonscription,2024-07-08,Commune,Cerdon (Ain),,2026-03-15
+DRAGON,Nicolas,1977-04-19,M,2,Aisne,201,1Ère Circonscription,2024-07-01,Commune,Laon (Aisne),,2026-03-22
+DIVE,Julien,1985-05-21,M,2,Aisne,202,2Ème Circonscription,2024-07-08,Commune,Itancourt (Aisne),,2026-03-15
+BEAURAIN,José,1971-07-27,M,2,Aisne,204,4Ème Circonscription,2024-07-01,Commune,Chauny (Aisne),,2026-03-22
+DESSIGNY,Jocelyn,1981-06-29,M,2,Aisne,205,5Ème Circonscription,2024-07-01,Commune,Villers-Cotterêts (Aisne),,2026-03-22
+MONNET,Yannick,1975-10-07,M,3,Allier,301,1Ère Circonscription,2024-07-08,Commune,Moulins (Allier),,2026-03-22
+RAY,Nicolas,1981-05-14,M,3,Allier,303,3Ème Circonscription,2024-07-08,Commune,Bellerive-Sur-Allier (Allier),,2026-03-15
+GIRARD,Christian,1952-05-07,M,4,Alpes-De-Haute-Provence,401,1Ère Circonscription,2024-07-08,Région,Provence-Alpes-Cote D'Azur,,2021-07-02
+VAGINAY,Sophie,1969-12-18,F,4,Alpes-De-Haute-Provence,402,2Ème Circonscription,2024-07-08,Région,Provence-Alpes-Cote D'Azur,,2021-07-02
+ROSSI,Valérie,1964-06-05,F,5,Hautes-Alpes,502,2Ème Circonscription,2024-07-08,Département,Hautes-Alpes,,2021-07-01
+CIOTTI,Eric,1965-09-28,M,6,Alpes-Maritimes,601,1Ère Circonscription,2024-07-08,Département,Alpes-Maritimes,,2021-07-01
+CIOTTI,Eric,1965-09-28,M,6,Alpes-Maritimes,601,1Ère Circonscription,2024-07-08,Commune,Nice (Alpes-Maritimes),Maire,2026-03-22
+TIVOLI,Lionel,1988-02-29,M,6,Alpes-Maritimes,602,2Ème Circonscription,2024-07-08,Région,Provence-Alpes-Cote D'Azur,,2021-07-02
+CHAIX,Bernard,1965-01-06,M,6,Alpes-Maritimes,603,3Ème Circonscription,2024-07-08,Département,Alpes-Maritimes,,2021-07-01
+CHAIX,Bernard,1965-01-06,M,6,Alpes-Maritimes,603,3Ème Circonscription,2024-07-08,Commune,Nice (Alpes-Maritimes),,2026-03-22
+TOMATIS,Gabriel,1999-11-02,M,6,Alpes-Maritimes,604,4Ème Circonscription,2026-04-22,Commune,Menton (Alpes-Maritimes),,2026-03-22
+D'INTORNI,Christelle,1985-05-02,F,6,Alpes-Maritimes,605,5Ème Circonscription,2024-07-01,Département,Alpes-Maritimes,,2021-07-01
+TRIBUIANI,Cyril,1981-07-25,M,6,Alpes-Maritimes,606,6Ème Circonscription,2026-04-02,Commune,Cagnes-Sur-Mer (Alpes-Maritimes),,2026-03-15
+PAUGET,Eric,1970-08-18,M,6,Alpes-Maritimes,607,7Ème Circonscription,2024-07-08,Commune,Antibes (Alpes-Maritimes),,2026-03-15
+MARTIN,Alexandra,1968-10-25,F,6,Alpes-Maritimes,608,8Ème Circonscription,2024-07-08,Département,Alpes-Maritimes,,2021-07-01
+TABAROT,Michèle,1962-10-13,F,6,Alpes-Maritimes,609,9Ème Circonscription,2024-07-08,Commune,Le Cannet (Alpes-Maritimes),,2026-03-15
+SAULIGNAC,Hervé,1970-11-06,M,7,Ardèche,701,1Ère Circonscription,2024-07-08,Département,Ardèche,,2021-07-01
+TREBUCHET,Vincent,1988-07-05,M,7,Ardèche,702,2Ème Circonscription,2024-07-08,Commune,Guilherand-Granges (Ardèche),,2026-03-15
+BRUN,Fabrice,1968-04-02,M,7,Ardèche,703,3Ème Circonscription,2024-07-08,Région,Auvergne-Rhône-Alpes,,2021-07-02
+VUIBERT,Lionel,1968-08-31,M,8,Ardennes,801,1Ère Circonscription,2024-12-09,Département,Ardennes,,2021-07-01
+VUIBERT,Lionel,1968-08-31,M,8,Ardennes,801,1Ère Circonscription,2024-12-09,Commune,Faissault (Ardennes),,2026-03-15
+CORDIER,Pierre,1972-05-27,M,8,Ardennes,802,2Ème Circonscription,2024-07-08,Département,Ardennes,,2021-07-01
+WARSMANN,Jean-Luc,1965-10-22,M,8,Ardennes,803,3Ème Circonscription,2024-07-08,Région,Grand Est,,2021-07-02
+FROGER,Martine,1961-06-11,F,9,Ariège,901,1Ère Circonscription,2024-07-01,Commune,Tarascon-Sur-Ariège (Ariège),,2026-03-15
+GUITTON,Jordan,1995-01-30,M,10,Aube,1001,1Ère Circonscription,2024-07-01,Région,Grand Est,,2021-07-02
+BAZIN-MALGRAS,Valérie,1969-10-31,F,10,Aube,1002,2Ème Circonscription,2024-07-08,Commune,Troyes (Aube),,2026-03-22
+RANC,Angélique,1988-03-16,F,10,Aube,1003,3Ème Circonscription,2024-07-08,Région,Grand Est,,2021-07-02
+RANC,Angélique,1988-03-16,F,10,Aube,1003,3Ème Circonscription,2024-07-08,Commune,Romilly-Sur-Seine (Aube),,2026-03-22
+JORDAN,Edouard,1987-11-06,M,11,Aude,1101,1Ère Circonscription,2026-04-21,Commune,Carcassonne (Aude),,2026-03-22
+FALCON,Frédéric,1985-11-23,M,11,Aude,1102,2Ème Circonscription,2024-07-08,Commune,Narbonne (Aude),,2026-03-22
+RANCOULE,Julien,1993-07-31,M,11,Aude,1103,3Ème Circonscription,2024-07-08,Commune,Limoux (Aude),,2026-03-15
+CESTRIERES,Pauline,1977-03-24,F,12,Aveyron,1201,1Ère Circonscription,2026-04-27,Commune,Montézic (Aveyron),,2026-03-15
+ALEXANDRE,Laurent,1973-06-09,M,12,Aveyron,1202,2Ème Circonscription,2024-07-08,Commune,Aubin (Aveyron),,2026-03-15
+ROUSSET,Jean-François,1952-09-09,M,12,Aveyron,1203,3Ème Circonscription,2024-07-08,Commune,Montlaur (Aveyron),,2026-03-15
+GRISETI,Monique,1960-07-23,F,13,Bouches-Du-Rhône,1301,1Ère Circonscription,2024-07-08,Commune,Marseille (Bouches-Du-Rhône),,2026-03-22
+LHARDIT,Laurent,1963-04-20,M,13,Bouches-Du-Rhône,1302,2Ème Circonscription,2024-07-08,Commune,Marseille (Bouches-Du-Rhône),,2026-03-22
+LELOUIS,Gisèle,1952-03-10,F,13,Bouches-Du-Rhône,1303,3Ème Circonscription,2024-07-08,Commune,Marseille (Bouches-Du-Rhône),,2026-03-22
+FAYSSAT,Olivier,1968-03-24,M,13,Bouches-Du-Rhône,1306,6Ème Circonscription,2024-07-08,Commune,Marseille (Bouches-Du-Rhône),,2026-03-22
+TONUSSI,Romain,1996-04-09,M,13,Bouches-Du-Rhône,1308,8Ème Circonscription,2024-07-08,Commune,Miramas (Bouches-Du-Rhône),,2026-03-15
+MELIN,Joëlle,1950-03-26,F,13,Bouches-Du-Rhône,1309,9Ème Circonscription,2024-07-08,Commune,Aubagne (Bouches-Du-Rhône),,2026-03-22
+GONZALEZ,José,1943-04-28,M,13,Bouches-Du-Rhône,1310,10Ème Circonscription,2024-07-08,Commune,Allauch (Bouches-Du-Rhône),,2026-03-15
+PENA,Marc,1960-05-07,M,13,Bouches-Du-Rhône,1311,11Ème Circonscription,2024-07-08,Commune,Aix-En-Provence (Bouches-Du-Rhône),,2026-03-22
+ALLISIO,Franck,1980-08-04,M,13,Bouches-Du-Rhône,1312,12Ème Circonscription,2024-07-01,Région,Provence-Alpes-Cote D'Azur,,2021-07-02
+ALLISIO,Franck,1980-08-04,M,13,Bouches-Du-Rhône,1312,12Ème Circonscription,2024-07-01,Commune,Marseille (Bouches-Du-Rhône),,2026-03-22
+FOUQUART,Emmanuel,1966-07-30,M,13,Bouches-Du-Rhône,1313,13Ème Circonscription,2024-07-08,Région,Provence-Alpes-Cote D'Azur,,2021-07-02
+FOUQUART,Emmanuel,1966-07-30,M,13,Bouches-Du-Rhône,1313,13Ème Circonscription,2024-07-08,Commune,Martigues (Bouches-Du-Rhône),,2026-03-22
+BAUBRY,Romain,1989-01-28,M,13,Bouches-Du-Rhône,1315,15Ème Circonscription,2024-07-08,Commune,Sénas (Bouches-Du-Rhône),,2026-03-22
+TACHE,Emmanuel,1975-02-20,M,13,Bouches-Du-Rhône,1316,16Ème Circonscription,2024-07-08,Commune,Tarascon (Bouches-Du-Rhône),,2026-03-22
+BRUNEAU,Joël,1963-09-07,M,14,Calvados,1401,1Ère Circonscription,2024-07-08,Commune,Caen (Calvados),,2026-03-22
+DELAPORTE,Arthur,1991-10-07,M,14,Calvados,1402,2Ème Circonscription,2024-07-08,Commune,Caen (Calvados),,2026-03-22
+DESCOEUR,Vincent,1962-12-13,M,15,Cantal,1501,1Ère Circonscription,2024-07-08,Département,Cantal,,2021-07-01
+DESCOEUR,Vincent,1962-12-13,M,15,Cantal,1501,1Ère Circonscription,2024-07-08,Commune,Montsalvy (Cantal),,2026-03-15
+BONY,Jean Yves,1955-03-11,M,15,Cantal,1502,2Ème Circonscription,2024-07-08,Département,Cantal,,2021-07-01
+BONY,Jean Yves,1955-03-11,M,15,Cantal,1502,2Ème Circonscription,2024-07-08,Commune,Ally (Cantal),,2026-03-15
+COLOMBIER,Caroline,1957-08-22,F,16,Charente,1603,3Ème Circonscription,2024-07-08,Région,Nouvelle-Aquitaine,,2021-07-02
+GERVAIS,Sabine,1970-05-20,F,17,Charente-Maritime,1701,1Ère Circonscription,2026-04-27,Commune,Puilboreau (Charente-Maritime),,2026-03-15
+MARKOWSKY,Pascal,1954-07-22,M,17,Charente-Maritime,1704,4Ème Circonscription,2024-07-08,Région,Nouvelle-Aquitaine,,2021-07-02
+PLASSARD,Christophe,1967-11-19,M,17,Charente-Maritime,1705,5Ème Circonscription,2024-07-08,Commune,Royan (Charente-Maritime),,2026-03-22
+KERVRAN,Loïc,1984-02-11,M,18,Cher,1803,3Ème Circonscription,2024-07-08,Commune,Orcenais (Cher),,2026-03-15
+MEUNIER,Frédérique,1960-12-08,F,19,Corrèze,1902,2Ème Circonscription,2024-07-08,Département,Corrèze,,2021-07-01
+GODARD,Océane,1982-11-22,F,21,Côte-D'Or,2101,1Ère Circonscription,2024-07-08,Région,Bourgogne-Franche-Comté,,2021-07-02
+HERVIEU,Catherine,1958-05-09,F,21,Côte-D'Or,2102,2Ème Circonscription,2024-07-08,Département,Côte-D'Or,,2021-07-01
+BRIGAND,Hubert,1952-07-28,M,21,Côte-D'Or,2104,4Ème Circonscription,2024-07-08,Commune,Massingy (Côte-D'Or),,2026-03-15
+COSSON,Mickaël,1975-11-29,M,22,Côtes-D'Armor,2201,1Ère Circonscription,2024-07-08,Commune,Hillion (Côtes-D'Armor),,2026-03-15
+JOUBERT,Florence,1965-06-30,F,24,Dordogne,2403,3Ème Circonscription,2024-07-08,Région,Nouvelle-Aquitaine,,2021-07-02
+CROIZIER,Laurent,1975-01-29,M,25,Doubs,2501,1Ère Circonscription,2024-07-08,Commune,Besançon (Doubs),,2026-03-22
+GRANGIER,Géraldine,1975-02-13,F,25,Doubs,2504,4Ème Circonscription,2024-07-08,Région,Bourgogne-Franche-Comté,,2021-07-02
+DUPARAY,Lionel,1981-02-07,M,25,Doubs,2505,5Ème Circonscription,2025-11-13,Département,Saône-Et-Loire,,2021-07-01
+CHRISTOPHLE,Paul,1987-02-03,M,26,Drôme,2601,1Ère Circonscription,2024-07-08,Commune,Valence (Drôme),,2026-03-15
+POLLET,Lisette,1968-01-04,F,26,Drôme,2602,2Ème Circonscription,2024-07-08,Région,Auvergne-Rhône-Alpes,,2021-07-02
+POCHON,Marie,1990-05-04,F,26,Drôme,2603,3Ème Circonscription,2024-07-08,Commune,Crest (Drôme),,2026-03-15
+LOIR,Christine,1977-02-22,F,27,Eure,2701,1Ère Circonscription,2024-07-08,Commune,Verneuil D'Avre Et D'Iton (Eure),,2026-03-15
+MAUVIEUX,Kévin,1991-09-09,M,27,Eure,2703,3Ème Circonscription,2024-07-08,Commune,Pont-Audemer (Eure),,2026-03-15
+BRUN,Philippe,1991-10-16,M,27,Eure,2704,4Ème Circonscription,2024-07-08,Commune,Louviers (Eure),,2026-03-22
+HOUSSIN,Timothée,1988-07-29,M,27,Eure,2705,5Ème Circonscription,2024-07-08,Région,Normandie,,2021-07-02
+MINARD,Christelle,1970-10-04,F,28,Eure-Et-Loir,2802,2Ème Circonscription,2025-07-07,Département,Eure-Et-Loir,,2021-07-01
+HUWART,Harold,1982-01-03,M,28,Eure-Et-Loir,2803,3Ème Circonscription,2024-07-08,Région,Centre-Val De Loire,,2021-07-02
+HUWART,Harold,1982-01-03,M,28,Eure-Et-Loir,2803,3Ème Circonscription,2024-07-08,Commune,Nogent-Le-Rotrou (Eure-Et-Loir),Maire,2026-03-22
+VIGIER,Philippe,1958-02-03,M,28,Eure-Et-Loir,2804,4Ème Circonscription,2024-07-08,Région,Centre-Val De Loire,,2021-07-02
+VIGIER,Philippe,1958-02-03,M,28,Eure-Et-Loir,2804,4Ème Circonscription,2024-07-08,Commune,Châteaudun (Eure-Et-Loir),Maire,2026-03-15
+LE FEUR,Sandrine,1991-03-18,F,29,Finistère,2904,4Ème Circonscription,2024-07-08,Commune,Saint-Thégonnec Loc-Eguiner (Finistère),,2026-03-15
+THOMIN,Mélanie,1984-06-04,F,29,Finistère,2906,6Ème Circonscription,2024-07-08,Commune,Hanvec (Finistère),,2026-03-15
+MARCANGELI,Laurent,1980-12-10,M,2A,Corse-Du-Sud,2A01,1Ère Circonscription,2025-11-06,Commune,Ajaccio (Corse-Du-Sud),,2026-03-22
+COLOMBANI,Paul-André,1967-08-17,M,2A,Corse-Du-Sud,2A02,2Ème Circonscription,2024-07-08,Commune,Zonza (Corse-Du-Sud),,2026-03-15
+CECCOLI,François-Xavier,1968-10-27,M,2B,Haute-Corse,2B02,2Ème Circonscription,2024-07-08,Commune,San-Giuliano (Haute-Corse),,2026-03-15
+GILLET,Yoann,1986-08-29,M,30,Gard,3001,1Ère Circonscription,2024-07-08,Région,Occitanie,,2021-07-02
+MEIZONNET,Nicolas,1983-12-22,M,30,Gard,3002,2Ème Circonscription,2024-07-01,Commune,Vauvert (Gard),Maire,2026-03-15
+DELLONG MENG,Catherine,1960-05-04,F,30,Gard,3003,3Ème Circonscription,2026-04-14,Commune,Le Pontet (Vaucluse),2ème adjoint au Maire,2026-03-15
+ALLEGRET-PILOT,Alexandre,1989-01-11,M,30,Gard,3005,5Ème Circonscription,2024-07-08,Commune,Bessèges (Gard),,2026-03-22
+JOSSERAND,Sylvie,1968-08-23,F,30,Gard,3006,6Ème Circonscription,2024-07-08,Commune,Nîmes (Gard),,2026-03-22
+PIQUEMAL,François,1984-12-28,M,31,Haute-Garonne,3104,4Ème Circonscription,2024-07-01,Commune,Toulouse (Haute-Garonne),,2026-03-22
+PORTARRIEU,Jean-François,1965-10-14,M,31,Haute-Garonne,3105,5Ème Circonscription,2024-07-08,Commune,Toulouse (Haute-Garonne),,2026-03-22
+SIMION,Arnaud,1968-05-19,M,31,Haute-Garonne,3106,6Ème Circonscription,2024-07-08,Commune,Colomiers (Haute-Garonne),,2026-03-15
+AVIRAGNET,Joël,1956-06-16,M,31,Haute-Garonne,3108,8Ème Circonscription,2024-07-08,Commune,Encausse-Les-Thermes (Haute-Garonne),,2026-03-15
+OBERTI,Jacques,1960-11-26,M,31,Haute-Garonne,3110,10Ème Circonscription,2024-07-08,Commune,Ayguesvives (Haute-Garonne),,2026-03-15
+TAUPIAC,David,1975-05-13,M,32,Gers,3202,2Ème Circonscription,2024-07-08,Région,Occitanie,,2021-07-02
+THIERRY,Nicolas,1975-12-08,M,33,Gironde,3302,2Ème Circonscription,2024-07-08,Région,Nouvelle-Aquitaine,,2021-07-02
+GOT,Pascale,1961-04-01,F,33,Gironde,3305,5Ème Circonscription,2024-07-08,Département,Gironde,,2021-07-01
+RECALDE,Marie,1965-03-12,F,33,Gironde,3306,6Ème Circonscription,2024-07-08,Commune,Mérignac (Gironde),,2026-03-15
+SAINT-PASTEUR,Sébastien,1980-12-08,M,33,Gironde,3307,7Ème Circonscription,2024-07-08,Commune,Pessac (Gironde),,2026-03-22
+BOUDIÉ,Florent,1973-09-22,M,33,Gironde,3310,10Ème Circonscription,2024-07-08,Région,Nouvelle-Aquitaine,,2021-07-02
+DIAZ,Edwige,1987-10-15,F,33,Gironde,3311,11Ème Circonscription,2024-07-01,Région,Nouvelle-Aquitaine,,2021-07-02
+OZIOL,Nathalie,1990-02-18,F,34,Hérault,3402,2Ème Circonscription,2024-07-01,Commune,Montpellier (Hérault),,2026-03-22
+DOMBRE COSTE,Fanny,1956-12-26,F,34,Hérault,3403,3Ème Circonscription,2024-07-08,Commune,Montpellier (Hérault),,2026-03-22
+BOUQUIN,Manon,1992-06-02,F,34,Hérault,3404,4Ème Circonscription,2024-07-08,Commune,Mèze (Hérault),,2026-03-15
+GABARRON,Julien,1981-03-11,M,34,Hérault,3406,6Ème Circonscription,2024-07-08,Commune,Béziers (Hérault),,2026-03-15
+CHAUMEIL,Bernard,1958-09-30,M,34,Hérault,3407,7Ème Circonscription,2026-04-26,Commune,Marseillan (Hérault),,2026-03-15
+MESMEUR,Marie,1994-08-12,F,35,Ille-Et-Vilaine,3501,1Ère Circonscription,2024-07-08,Commune,Rennes (Ille-Et-Vilaine),,2026-03-22
+ROUAUX,Claudia,1963-10-13,F,35,Ille-Et-Vilaine,3503,3Ème Circonscription,2024-07-08,Région,Bretagne,,2021-07-02
+BOURGEAUX,Jean-Luc,1963-04-10,M,35,Ille-Et-Vilaine,3507,7Ème Circonscription,2024-07-08,Département,Ille-Et-Vilaine,,2021-07-01
+LABARONNE,Daniel,1955-07-16,M,37,Indre-Et-Loire,3702,2Ème Circonscription,2024-07-08,Commune,Bléré (Indre-Et-Loire),,2026-03-15
+ALFANDARI,Henri,1979-10-02,M,37,Indre-Et-Loire,3703,3Ème Circonscription,2024-07-08,Département,Indre-Et-Loire,,2021-07-01
+BATTISTEL,Marie-Noëlle,1956-08-20,F,38,Isère,3804,4Ème Circonscription,2024-07-08,Commune,La Morte (Isère),,2026-03-15
+JOLLY,Alexis,1990-12-22,M,38,Isère,3806,6Ème Circonscription,2024-07-08,Région,Auvergne-Rhône-Alpes,,2021-07-02
+NEUDER,Yannick,1969-03-15,M,38,Isère,3807,7Ème Circonscription,2025-11-06,Région,Auvergne-Rhône-Alpes,,2021-07-02
+BRULEBOIS,Danielle,1947-07-04,F,39,Jura,3901,1Ère Circonscription,2024-07-08,Département,Jura,,2021-07-01
+DALLOZ,Marie-Christine,1958-01-10,F,39,Jura,3902,2Ème Circonscription,2025-04-07,Département,Jura,,2021-07-01
+GRUET,Justine,1989-10-23,F,39,Jura,3903,3Ème Circonscription,2024-07-08,Commune,Dole (Jura),,2026-03-15
+VALLAUD,Boris,1975-07-25,M,40,Landes,4003,3Ème Circonscription,2024-07-08,Département,Landes,,2021-07-01
+FESNEAU,Marc,1971-01-11,M,41,Loir-Et-Cher,4101,1Ère Circonscription,2024-07-08,Région,Centre-Val De Loire,,2021-07-02
+FESNEAU,Marc,1971-01-11,M,41,Loir-Et-Cher,4101,1Ère Circonscription,2024-07-08,Commune,Marchenoir (Loir-Et-Cher),,2026-03-15
+MARION,Christophe,1973-04-25,M,41,Loir-Et-Cher,4103,3Ème Circonscription,2024-07-08,Commune,Saint-Ouen (Loir-Et-Cher),,2026-03-15
+COURBON,Pierrick,1985-07-08,M,42,Loire,4201,1Ère Circonscription,2024-07-08,Commune,Saint-Etienne (Loire),,2026-03-22
+MANDON,Emmanuel,1965-06-22,M,42,Loire,4203,3Ème Circonscription,2024-07-08,Région,Auvergne-Rhône-Alpes,,2021-07-02
+BONNET,Sylvie,1969-12-21,F,42,Loire,4204,4Ème Circonscription,2024-07-08,Département,Loire,,2021-07-01
+VERMOREL-MARQUES,Antoine,1993-02-17,M,42,Loire,4205,5Ème Circonscription,2024-07-08,Département,Loire,,2021-07-01
+TAITE,Jean-Pierre,1962-03-14,M,42,Loire,4206,6Ème Circonscription,2024-07-08,Région,Auvergne-Rhône-Alpes,,2021-07-02
+TAITE,Jean-Pierre,1962-03-14,M,42,Loire,4206,6Ème Circonscription,2024-07-08,Commune,Feurs (Loire),Maire,2026-03-15
+WAUQUIEZ,Laurent,1975-04-12,M,43,Haute-Loire,4301,1Ère Circonscription,2024-07-08,Région,Auvergne-Rhône-Alpes,,2021-07-02
+VIGIER,Peter,1969-10-22,M,43,Haute-Loire,4302,2Ème Circonscription,2024-07-08,Région,Auvergne-Rhône-Alpes,,2021-07-02
+VIGIER,Peter,1969-10-22,M,43,Haute-Loire,4302,2Ème Circonscription,2024-07-08,Commune,Lavoûte-Chilhac (Haute-Loire),,2026-03-15
+RAUX,Jean-Claude,1967-01-18,M,44,Loire-Atlantique,4406,6Ème Circonscription,2024-07-08,Commune,Saffré (Loire-Atlantique),,2026-03-15
+JOSSO,Sandrine,1975-09-19,F,44,Loire-Atlantique,4407,7Ème Circonscription,2024-07-08,Commune,Missillac (Loire-Atlantique),,2026-03-15
+TAVEL,Matthias,1987-07-06,M,44,Loire-Atlantique,4408,8Ème Circonscription,2024-07-08,Région,Pays De La Loire,,2021-07-02
+DE PÉLICHY,Constance,1986-04-01,F,45,Loiret,4503,3Ème Circonscription,2024-07-08,Région,Centre-Val De Loire,,2021-07-02
+MÉNAGÉ,Thomas,1992-01-06,M,45,Loiret,4504,4Ème Circonscription,2024-07-08,Région,Centre-Val De Loire,,2021-07-02
+PRADIÉ,Aurélien,1986-03-14,M,46,Lot,4601,1Ère Circonscription,2024-07-08,Région,Occitanie,,2021-07-02
+PRADIÉ,Aurélien,1986-03-14,M,46,Lot,4601,1Ère Circonscription,2024-07-08,Commune,Coeur De Causse (Lot),,2026-03-15
+PROENÇA,Christophe,1966-05-31,M,46,Lot,4602,2Ème Circonscription,2024-07-08,Département,Lot,,2021-07-01
+PROENÇA,Christophe,1966-05-31,M,46,Lot,4602,2Ème Circonscription,2024-07-08,Commune,Gintrac (Lot),,2026-03-15
+REY,Emeline,1988-03-29,F,47,Lot-Et-Garonne,4703,3Ème Circonscription,2026-04-21,Département,Lot-Et-Garonne,,2024-02-01
+PANTEL,Sophie,1971-07-27,F,48,Lozère,4801,1Ère Circonscription,2024-07-08,Département,Lozère,,2021-07-01
+BLIN,Anne-Laure,1983-06-12,F,49,Maine-Et-Loire,4903,3Ème Circonscription,2024-07-08,Commune,Saumur (Maine-Et-Loire),,2026-03-22
+MAUSSION,Patricia,1968-09-23,F,49,Maine-Et-Loire,4907,7Ème Circonscription,2026-04-27,Région,Pays De La Loire,,2021-07-02
+MAUSSION,Patricia,1968-09-23,F,49,Maine-Et-Loire,4907,7Ème Circonscription,2026-04-27,Commune,Loiré (Maine-Et-Loire),Maire,2026-03-15
+GOSSELIN,Philippe,1966-10-23,M,50,Manche,5001,1Ère Circonscription,2024-07-08,Département,Manche,,2021-07-01
+PIC,Anna,1978-06-04,F,50,Manche,5004,4Ème Circonscription,2024-07-08,Commune,Cherbourg-En-Cotentin (Manche),,2026-03-22
+ALBERTINI,Xavier,1970-01-28,M,51,Marne,5101,1Ère Circonscription,2024-07-08,Commune,Reims (Marne),,2026-03-22
+MICHELET,Maxime,1992-04-19,M,51,Marne,5103,3Ème Circonscription,2024-07-08,Commune,Epernay (Marne),,2026-03-22
+DE COURSON,Charles,1952-04-02,M,51,Marne,5105,5Ème Circonscription,2024-07-08,Département,Marne,,2021-07-01
+DE COURSON,Charles,1952-04-02,M,51,Marne,5105,5Ème Circonscription,2024-07-08,Commune,Vanault-Les-Dames (Marne),,2026-03-15
+ROBERT-DEHAULT,Laurence,1964-01-17,F,52,Haute-Marne,5202,2Ème Circonscription,2024-07-01,Commune,Saint-Dizier (Haute-Marne),,2026-03-15
+GAROT,Guillaume,1966-05-29,M,53,Mayenne,5301,1Ère Circonscription,2024-07-08,Région,Pays De La Loire,,2021-07-02
+BANNIER,Géraldine,1979-11-22,F,53,Mayenne,5302,2Ème Circonscription,2024-07-08,Commune,Courbeveille (Mayenne),,2026-03-15
+MERCIER,Estelle,1973-01-15,F,54,Meurthe-Et-Moselle,5401,1Ère Circonscription,2024-07-08,Commune,Nancy (Meurthe-Et-Moselle),,2026-03-22
+HABLOT,Stéphane,1965-06-30,M,54,Meurthe-Et-Moselle,5402,2Ème Circonscription,2024-07-08,Commune,Vandoeuvre-Lès-Nancy (Meurthe-Et-Moselle),,2026-03-15
+WEBER,Frédéric,1973-05-21,M,54,Meurthe-Et-Moselle,5403,3Ème Circonscription,2024-07-08,Commune,Val De Briey (Meurthe-Et-Moselle),,2026-03-22
+BAZIN,Thibault,1984-10-27,M,54,Meurthe-Et-Moselle,5404,4Ème Circonscription,2024-07-08,Département,Meurthe-Et-Moselle,,2021-07-01
+AMBLARD,Maxime,1996-09-06,M,55,Meuse,5501,1Ère Circonscription,2024-07-08,Commune,Bar-Le-Duc (Meuse),,2026-03-22
+CRIAUD,Michel,1962-08-03,M,56,Morbihan,5601,1Ère Circonscription,2025-11-13,Commune,Muzillac (Morbihan),,2026-03-15
+MOLAC,Paul,1962-05-21,M,56,Morbihan,5604,4Ème Circonscription,2024-07-08,Région,Bretagne,,2021-07-02
+GIRARD,Damien,1973-05-30,M,56,Morbihan,5605,5Ème Circonscription,2024-07-08,Commune,Lorient (Morbihan),,2026-03-22
+COLIN-OESTERLÉ,Nathalie,1965-05-05,F,57,Moselle,5703,3Ème Circonscription,2024-07-08,Commune,Metz (Moselle),,2026-03-22
+END,Jérôme,1979-04-09,M,57,Moselle,5704,4Ème Circonscription,2026-04-21,Région,Grand Est,,2021-07-02
+END,Jérôme,1979-04-09,M,57,Moselle,5704,4Ème Circonscription,2026-04-21,Commune,Vic-Sur-Seille (Moselle),Maire,2026-03-15
+JENFT,Pascal,1966-11-29,M,57,Moselle,5705,5Ème Circonscription,2024-07-08,Commune,Sarreguemines (Moselle),,2026-03-22
+PARMENTIER-LECOCQ,Charlotte,1977-07-17,F,57,Moselle,5706,6Ème Circonscription,2026-03-28,Département,Nord,,2021-07-01
+PFEFFER,Kévin,1990-07-09,M,57,Moselle,5706,6Ème Circonscription,2024-07-01,Commune,Stiring-Wendel (Moselle),,2026-03-15
+LOUBET,Alexandre,1994-07-07,M,57,Moselle,5707,7Ème Circonscription,2024-07-01,Commune,Saint-Avold (Moselle),,2026-03-22
+JACOBELLI,Laurent,1969-10-13,M,57,Moselle,5708,8Ème Circonscription,2024-07-08,Région,Grand Est,,2021-07-02
+RAUCH,Isabelle,1968-08-10,F,57,Moselle,5709,9Ème Circonscription,2024-07-08,Région,Grand Est,,2021-07-02
+GUIBERT,Julien,1984-05-11,M,58,Nièvre,5802,2Ème Circonscription,2024-07-08,Région,Bourgogne-Franche-Comté,,2021-07-02
+BERNALICIS,Ugo,1989-09-25,M,59,Nord,5902,2Ème Circonscription,2024-07-08,Commune,Villeneuve-D'Ascq (Nord),,2026-03-22
+DELANNOY,Sandra,1974-05-01,F,59,Nord,5903,3Ème Circonscription,2024-07-01,Région,Hauts-De-France,,2021-07-02
+HUYGHE,Sébastien,1969-10-25,M,59,Nord,5905,5Ème Circonscription,2024-07-08,Région,Hauts-De-France,,2021-07-02
+GERARD,Félicie,1974-01-28,F,59,Nord,5907,7Ème Circonscription,2024-07-08,Commune,Wasquehal (Nord),,2026-03-15
+BENTORKI,Shéhérazade,1986-11-06,F,59,Nord,5908,8Ème Circonscription,2026-04-08,Commune,Roubaix (Nord),,2026-03-22
+SPILLEBOUT,Violette,1972-09-02,F,59,Nord,5909,9Ème Circonscription,2024-07-08,Commune,Lille (Nord),,2026-03-22
+TAVERNE,Michael,1979-03-10,M,59,Nord,5912,12Ème Circonscription,2024-07-01,Commune,Aulnoye-Aymeries (Nord),,2026-03-15
+MARLE,Pierre,1954-02-19,M,59,Nord,5914,14Ème Circonscription,2026-04-07,Commune,Bollezeele (Nord),,2026-03-15
+BATAILLE,Jean-Pierre,1963-10-24,M,59,Nord,5915,15Ème Circonscription,2024-07-08,Région,Hauts-De-France,,2021-07-02
+MARCHIO,Matthieu,1993-06-08,M,59,Nord,5916,16Ème Circonscription,2024-07-01,Commune,Somain (Nord),,2026-03-22
+LEDOUX,Vincent,1966-06-21,M,59,Nord,5917,17Ème Circonscription,2025-01-24,Département,Nord,,2021-07-01
+TESSON,Thierry,1957-04-22,M,59,Nord,5917,17Ème Circonscription,2024-07-08,Commune,Douai (Nord),,2026-03-22
+DUFOSSET,Alexandre,1998-08-24,M,59,Nord,5918,18Ème Circonscription,2024-07-01,Région,Hauts-De-France,,2021-07-02
+CHENU,Sébastien,1973-04-13,M,59,Nord,5919,19Ème Circonscription,2024-07-01,Région,Hauts-De-France,,2021-07-02
+LÉTARD,Valérie,1962-10-13,F,59,Nord,5921,21Ème Circonscription,2025-11-06,Département,Nord,,2021-07-01
+MARAIS-BEUIL,Claire,1958-11-04,F,60,Oise,6001,1Ère Circonscription,2024-07-08,Commune,Beauvais (Oise),,2026-03-22
+SABATOU,Alexandre,1993-02-18,M,60,Oise,6003,3Ème Circonscription,2024-07-08,Commune,Chambly (Oise),,2026-03-22
+LUDMANN,Véronique,1963-03-17,F,60,Oise,6004,4Ème Circonscription,2026-03-02,Commune,Senlis (Oise),,2026-03-22
+GUINIOT,Michel,1954-11-29,M,60,Oise,6006,6Ème Circonscription,2024-07-08,Région,Hauts-De-France,,2021-07-02
+JOURDAN,Chantal,1958-09-02,F,61,Orne,6101,1Ère Circonscription,2024-07-08,Commune,Champsecret (Orne),,2026-03-15
+LIGER,Thierry,1970-05-27,M,61,Orne,6102,2Ème Circonscription,2026-04-22,Région,Normandie,,2021-07-02
+LIGER,Thierry,1970-05-27,M,61,Orne,6102,2Ème Circonscription,2026-04-22,Commune,Cours-Maugis-Sur-Huisne (Orne),,2026-03-15
+FOUCHER CHAZÉ,Cendrine,1977-10-14,F,61,Orne,6103,3Ème Circonscription,2026-04-15,Département,Orne,,2021-07-01
+FOUCHER CHAZÉ,Cendrine,1977-10-14,F,61,Orne,6103,3Ème Circonscription,2026-04-15,Commune,Gouffern En Auge (Orne),Maire,2026-03-15
+BLAIRY,Emmanuel,1986-03-14,M,62,Pas-De-Calais,6201,1Ère Circonscription,2024-07-01,Commune,Bapaume (Pas-De-Calais),,2026-03-15
+CLAVET,Bruno,1989-05-06,M,62,Pas-De-Calais,6203,3Ème Circonscription,2024-07-01,Commune,Lens (Pas-De-Calais),,2026-03-15
+FAIT,Philippe,1969-06-24,M,62,Pas-De-Calais,6204,4Ème Circonscription,2024-07-08,Département,Pas-De-Calais,,2021-07-01
+GOLLIOT,Antoine,1985-08-13,M,62,Pas-De-Calais,6205,5Ème Circonscription,2024-07-08,Commune,Boulogne-Sur-Mer (Pas-De-Calais),,2026-03-15
+ENGRAND,Christine,1955-05-07,F,62,Pas-De-Calais,6206,6Ème Circonscription,2024-07-01,Région,Hauts-De-France,,2021-07-02
+DE FLEURIAN,Marc,1989-02-07,M,62,Pas-De-Calais,6207,7Ème Circonscription,2024-07-08,Commune,Calais (Pas-De-Calais),,2026-03-15
+EVRARD,Auguste,2000-05-04,M,62,Pas-De-Calais,6208,8Ème Circonscription,2024-07-08,Commune,Auchel (Pas-De-Calais),,2026-03-15
+PARMENTIER,Caroline,1965-12-16,F,62,Pas-De-Calais,6209,9Ème Circonscription,2024-07-08,Commune,Béthune (Pas-De-Calais),,2026-03-15
+FRAPPÉ,Thierry,1952-05-23,M,62,Pas-De-Calais,6210,10Ème Circonscription,2024-07-01,Commune,Bruay-La-Buissière (Pas-De-Calais),,2026-03-15
+BILDE,Bruno,1976-09-22,M,62,Pas-De-Calais,6212,12Ème Circonscription,2024-07-01,Région,Hauts-De-France,,2021-07-02
+MAXIMI,Marianne,1985-11-13,F,63,Puy-De-Dôme,6301,1Ère Circonscription,2024-07-08,Commune,Clermont-Ferrand (Puy-De-Dôme),,2026-03-22
+PIRÈS BEAUNE,Christine,1964-10-06,F,63,Puy-De-Dôme,6302,2Ème Circonscription,2024-07-08,Commune,Riom (Puy-De-Dôme),,2026-03-22
+LINGEMANN,Delphine,1972-11-14,F,63,Puy-De-Dôme,6304,4Ème Circonscription,2024-07-08,Commune,Saint-Floret (Puy-De-Dôme),,2026-03-15
+BRUGEROLLES,Julien,1982-07-05,M,63,Puy-De-Dôme,6305,5Ème Circonscription,2025-04-01,Commune,Paslières (Puy-De-Dôme),,2026-03-15
+POUEYTO,Josy,1954-01-13,F,64,Pyrénées-Atlantiques,6401,1Ère Circonscription,2024-07-08,Commune,Pau (Pyrénées-Atlantiques),,2026-03-22
+ECHANIZ,Iñaki,1993-09-02,M,64,Pyrénées-Atlantiques,6404,4Ème Circonscription,2024-07-08,Commune,Oloron-Sainte-Marie (Pyrénées-Atlantiques),,2026-03-22
+CAPDEVIELLE,Colette,1958-10-14,F,64,Pyrénées-Atlantiques,6405,5Ème Circonscription,2024-07-08,Commune,Bayonne (Pyrénées-Atlantiques),,2026-03-22
+DUFAU,Peio,1979-05-30,M,64,Pyrénées-Atlantiques,6406,6Ème Circonscription,2024-07-08,Commune,Ciboure (Pyrénées-Atlantiques),,2026-03-15
+BLANC,Sophie,1968-02-20,F,66,Pyrénées-Orientales,6601,1Ère Circonscription,2024-07-08,Région,Occitanie,,2021-07-02
+SABATINI,Anaïs,1990-03-10,F,66,Pyrénées-Orientales,6602,2Ème Circonscription,2024-07-01,Commune,Perpignan (Pyrénées-Orientales),,2026-03-15
+DOGOR-SUCH,Sandrine,1970-11-08,F,66,Pyrénées-Orientales,6603,3Ème Circonscription,2024-07-08,Commune,Perpignan (Pyrénées-Orientales),,2026-03-15
+MARTINEZ,Michèle,1968-06-06,F,66,Pyrénées-Orientales,6604,4Ème Circonscription,2024-07-08,Commune,Perpignan (Pyrénées-Orientales),,2026-03-15
+SOTHER,Thierry,1982-02-02,M,67,Bas-Rhin,6703,3Ème Circonscription,2024-07-08,Commune,Strasbourg (Bas-Rhin),,2026-03-22
+SITZENSTUHL,Charles,1988-12-03,M,67,Bas-Rhin,6705,5Ème Circonscription,2024-07-08,Département,Collectivité Européenne d'Alsace,,2021-07-01
+THIEBAUT,Vincent,1972-05-23,M,67,Bas-Rhin,6709,9Ème Circonscription,2024-07-08,Région,Grand Est,,2021-07-02
+KLINKERT,Brigitte,1956-07-22,F,68,Haut-Rhin,6801,1Ère Circonscription,2024-07-08,Département,Collectivité Européenne d'Alsace,,2021-07-01
+SCHELLENBERGER,Raphaël,1990-02-14,M,68,Haut-Rhin,6804,4Ème Circonscription,2024-07-08,Département,Collectivité Européenne d'Alsace,,2021-07-01
+BECHT,Olivier,1976-04-28,M,68,Haut-Rhin,6805,5Ème Circonscription,2024-07-08,Commune,Rixheim (Haut-Rhin),,2026-03-15
+FUCHS,Bruno,1959-04-07,M,68,Haut-Rhin,6806,6Ème Circonscription,2024-07-08,Département,Collectivité Européenne d'Alsace,,2021-07-01
+BELOUASSA-CHERIFI,Anaïs,1995-02-07,F,69,Rhône,6901,1Ère Circonscription,2024-07-08,Commune,Lyon (Rhône),,2026-03-22
+LAHMAR,Abdelkader,1971-05-12,M,69,Rhône,6907,7Ème Circonscription,2024-07-08,Commune,Vaulx-En-Velin (Rhône),Maire,2026-03-22
+PORTIER,Alexandre,1990-04-21,M,69,Rhône,6909,9Ème Circonscription,2025-01-24,Commune,Villefranche-Sur-Saône (Rhône),,2026-03-15
+BOUMERTIT,Idir,1974-10-04,M,69,Rhône,6914,14Ème Circonscription,2024-07-08,Commune,Vénissieux (Rhône),Maire,2026-03-22
+SALMON,Emeric,1973-11-26,M,70,Haute-Saône,7002,2Ème Circonscription,2024-07-01,Commune,Lure (Haute-Saône),,2026-03-22
+DIRX,Benjamin,1979-01-25,M,71,Saône-Et-Loire,7101,1Ère Circonscription,2024-07-08,Commune,Mâcon (Saône-Et-Loire),,2026-03-22
+CORNELOUP,Josiane,1959-09-30,F,71,Saône-Et-Loire,7102,2Ème Circonscription,2024-07-08,Département,Saône-Et-Loire,,2021-07-01
+DUTREMBLE,Aurélien,1978-12-23,M,71,Saône-Et-Loire,7103,3Ème Circonscription,2024-07-08,Région,Bourgogne-Franche-Comté,,2021-07-02
+KARAMANLI,Marietta,1964-12-18,F,72,Sarthe,7202,2Ème Circonscription,2024-07-08,Commune,Le Mans (Sarthe),,2026-03-22
+GRELIER,Jean-Carles,1966-03-15,M,72,Sarthe,7205,5Ème Circonscription,2024-07-08,Département,Sarthe,,2021-07-01
+PADEY,Didier,1965-11-09,M,73,Savoie,7301,1Ère Circonscription,2025-11-13,Commune,Jongieux (Savoie),,2026-03-15
+ROLLAND,Vincent,1970-02-01,M,73,Savoie,7302,2Ème Circonscription,2024-07-08,Département,Savoie,,2021-07-01
+BONNIVARD,Emilie,1980-08-02,F,73,Savoie,7303,3Ème Circonscription,2024-07-08,Région,Auvergne-Rhône-Alpes,,2021-07-02
+RIOTTON,Véronique,1969-11-02,F,74,Haute-Savoie,7401,1Ère Circonscription,2024-07-08,Commune,Annecy (Haute-Savoie),,2026-03-22
+CARTERON,Danièle,1984-10-31,F,74,Haute-Savoie,7402,2Ème Circonscription,2026-04-28,Commune,Saint-Jean-De-Sixt (Haute-Savoie),,2026-03-15
+VALENTIN,Antoine,1992-10-16,M,74,Haute-Savoie,7403,3Ème Circonscription,2026-02-02,Commune,Saint-Jeoire (Haute-Savoie),,2026-03-15
+DUBY-MULLER,Virginie,1979-08-16,F,74,Haute-Savoie,7404,4Ème Circonscription,2024-07-08,Département,Haute-Savoie,,2021-07-01
+VIOLLAND,Anne-Cécile,1973-06-10,F,74,Haute-Savoie,7405,5Ème Circonscription,2024-07-08,Commune,Neuvecelle (Haute-Savoie),,2026-03-15
+MAILLARD,Sylvain,1974-04-28,M,75,Paris,7501,1Ère Circonscription,2024-07-08,Commune,Paris (Paris),,2026-03-22
+CHIKIROU,Sophia,1979-06-03,F,75,Paris,7506,6Ème Circonscription,2024-07-01,Région,Île-De-France,,2021-07-02
+CHIKIROU,Sophia,1979-06-03,F,75,Paris,7506,6Ème Circonscription,2024-07-01,Commune,Paris (Paris),,2026-03-22
+ARENAS,Rodrigo,1974-04-24,M,75,Paris,7510,10Ème Circonscription,2024-07-01,Commune,Paris (Paris),,2026-03-22
+HERVIEU,Céline,1993-08-19,F,75,Paris,7511,11Ème Circonscription,2024-07-08,Commune,Paris (Paris),,2026-03-22
+IBLED,Catherine,1975-05-25,F,75,Paris,7513,13Ème Circonscription,2025-11-13,Commune,Paris (Paris),,2026-03-22
+HEROUIN-LEAUTEY,Florence,1972-12-28,F,76,Seine-Maritime,7601,1Ère Circonscription,2024-07-08,Commune,Rouen (Seine-Maritime),,2026-03-22
+BÉNARD,Edouard,1995-02-18,M,76,Seine-Maritime,7603,3Ème Circonscription,2024-07-08,Commune,Saint-Etienne-Du-Rouvray (Seine-Maritime),,2026-03-15
+FIRMIN LE BODO,Agnès,1968-11-20,F,76,Seine-Maritime,7607,7Ème Circonscription,2024-07-08,Commune,Le Havre (Seine-Maritime),,2026-03-22
+LECOQ,Jean-Paul,1958-10-13,M,76,Seine-Maritime,7608,8Ème Circonscription,2024-07-08,Commune,Le Havre (Seine-Maritime),,2026-03-22
+POUSSIER-WINSBACK,Marie-Agnes,1967-03-25,F,76,Seine-Maritime,7609,9Ème Circonscription,2025-01-24,Commune,Fécamp (Seine-Maritime),,2026-03-22
+VALLETOUX,Frédéric,1966-08-23,M,77,Seine-Et-Marne,7702,2Ème Circonscription,2024-07-08,Commune,Fontainebleau (Seine-Et-Marne),,2026-03-15
+THIERIOT,Jean-Louis,1969-06-26,M,77,Seine-Et-Marne,7703,3Ème Circonscription,2025-01-24,Département,Seine-Et-Marne,,2021-07-01
+THIERIOT,Jean-Louis,1969-06-26,M,77,Seine-Et-Marne,7703,3Ème Circonscription,2025-01-24,Commune,Beauvoir (Seine-Et-Marne),,2026-03-15
+LIMONGI,Julien,1996-02-12,M,77,Seine-Et-Marne,7704,4Ème Circonscription,2024-07-08,Commune,Provins (Seine-Et-Marne),,2026-03-15
+ROULLAUD,Béatrice,1960-06-09,F,77,Seine-Et-Marne,7706,6Ème Circonscription,2024-07-08,Commune,Meaux (Seine-Et-Marne),,2026-03-15
+THIEBAULT-MARTINEZ,Céline,1974-08-04,F,77,Seine-Et-Marne,7709,9Ème Circonscription,2024-07-08,Commune,Combs-La-Ville (Seine-Et-Marne),,2026-03-22
+FAURE,Olivier,1968-08-18,M,77,Seine-Et-Marne,7711,11Ème Circonscription,2024-07-01,Commune,Lieusaint (Seine-Et-Marne),,2026-03-15
+DIOP,Dieynaba,1974-07-15,F,78,Yvelines,7809,9Ème Circonscription,2024-07-08,Région,Île-De-France,,2021-07-02
+MAZAURY,Laurent,1965-08-23,M,78,Yvelines,7811,11Ème Circonscription,2024-07-08,Commune,Elancourt (Yvelines),,2026-03-15
+OLIVE,Karl,1969-09-29,M,78,Yvelines,7812,12Ème Circonscription,2024-07-08,Département,Yvelines,,2021-07-01
+OLIVE,Karl,1969-09-29,M,78,Yvelines,7812,12Ème Circonscription,2024-07-08,Commune,Poissy (Yvelines),,2026-03-22
+MARCHIVE,Bastien,1990-07-15,M,79,Deux-Sèvres,7901,1Ère Circonscription,2024-07-08,Commune,Niort (Deux-Sèvres),,2026-03-15
+MARTIN,Alexandra,1976-07-28,F,80,Somme,8001,1Ère Circonscription,2026-04-27,Commune,Bordeaux (Gironde),,2026-03-22
+HAMDANE,Zahia,1965-05-14,F,80,Somme,8002,2Ème Circonscription,2024-07-08,Région,Hauts-De-France,,2021-07-02
+TANGUY,Jean-Philippe,1986-03-25,M,80,Somme,8004,4Ème Circonscription,2024-07-08,Région,Hauts-De-France,,2021-07-02
+CARBONNEL,Pierre-Henri,1990-03-23,M,82,Tarn-Et-Garonne,8201,1Ère Circonscription,2025-10-13,Commune,Saint-Cirq (Tarn-Et-Garonne),,2026-03-15
+HAMELET,Marine,1967-07-13,F,82,Tarn-Et-Garonne,8202,2Ème Circonscription,2024-07-08,Commune,Castelsarrasin (Tarn-Et-Garonne),,2026-03-22
+LAVALETTE,Laure,1976-04-16,F,83,Var,8302,2Ème Circonscription,2024-07-01,Commune,Toulon (Var),,2026-03-22
+RAMBAUD,Stéphane,1960-04-05,M,83,Var,8303,3Ème Circonscription,2024-07-08,Région,Provence-Alpes-Cote D'Azur,,2021-07-02
+LECHANTEUX,Julie,1977-12-22,F,83,Var,8305,5Ème Circonscription,2024-07-01,Commune,Roquebrune-Sur-Argens (Var),,2026-03-22
+GILETTI,Frank,1973-03-01,M,83,Var,8306,6Ème Circonscription,2024-07-01,Région,Provence-Alpes-Cote D'Azur,,2021-07-02
+BOCCALETTI,Frédéric,1973-11-23,M,83,Var,8307,7Ème Circonscription,2024-07-08,Région,Provence-Alpes-Cote D'Azur,,2021-07-02
+BOCCALETTI,Frédéric,1973-11-23,M,83,Var,8307,7Ème Circonscription,2024-07-08,Commune,Six-Fours-Les-Plages (Var),,2026-03-22
+SCHRECK,Philippe,1972-02-02,M,83,Var,8308,8Ème Circonscription,2024-07-01,Commune,Draguignan (Var),,2026-03-22
+AUZANOT,Bénédicte,1972-08-05,F,84,Vaucluse,8402,2Ème Circonscription,2024-07-08,Région,Provence-Alpes-Cote D'Azur,,2021-07-02
+AUZANOT,Bénédicte,1972-08-05,F,84,Vaucluse,8402,2Ème Circonscription,2024-07-08,Commune,Cavaillon (Vaucluse),,2026-03-22
+DE LÉPINAU,Hervé,1969-06-08,M,84,Vaucluse,8403,3Ème Circonscription,2024-07-01,Département,Vaucluse,,2021-07-01
+DE LÉPINAU,Hervé,1969-06-08,M,84,Vaucluse,8403,3Ème Circonscription,2024-07-01,Commune,Carpentras (Vaucluse),Maire,2026-03-22
+RIMBERT,Catherine,1968-09-13,F,84,Vaucluse,8405,5Ème Circonscription,2024-07-08,Région,Provence-Alpes-Cote D'Azur,,2021-07-02
+HENRIET,Pierre,1991-11-26,M,85,Vendée,8505,5Ème Circonscription,2024-07-08,Commune,Vix (Vendée),,2026-03-15
+MAUDET,Damien,1996-11-14,M,87,Haute-Vienne,8701,1Ère Circonscription,2024-07-08,Commune,Limoges (Haute-Vienne),,2026-03-22
+DELAUTRETTE,Stéphane,1972-09-20,M,87,Haute-Vienne,8702,2Ème Circonscription,2024-07-08,Commune,Les Cars (Haute-Vienne),,2026-03-15
+VIRY,Stéphane,1969-10-14,M,88,Vosges,8801,1Ère Circonscription,2024-07-08,Département,Vosges,,2021-07-01
+NAEGELEN,Christophe,1983-12-30,M,88,Vosges,8803,3Ème Circonscription,2024-07-08,Région,Grand Est,,2021-07-02
+HUMBERT,Sébastien,1990-07-10,M,88,Vosges,8804,4Ème Circonscription,2024-07-08,Région,Grand Est,,2021-07-02
+ODOUL,Julien,1985-05-08,M,89,Yonne,8903,3Ème Circonscription,2024-07-01,Région,Bourgogne-Franche-Comté,,2021-07-02
+BOUCARD,Ian,1988-05-05,M,90,Territoire De Belfort,9001,1Ère Circonscription,2024-07-08,Commune,Belfort (Territoire De Belfort),,2026-03-22
+AMRANI,Farida,1976-09-03,F,91,Essonne,9101,1Ère Circonscription,2024-07-08,Commune,Evry-Courcouronnes (Essonne),,2026-03-15
+DA CONCEICAO CARVALHO,Nathalie,1966-03-31,F,91,Essonne,9102,2Ème Circonscription,2024-07-08,Commune,Itteville (Essonne),,2026-03-22
+GUSTAVE,Steevy,1970-02-05,M,91,Essonne,9103,3Ème Circonscription,2024-07-08,Commune,Brétigny-Sur-Orge (Essonne),,2026-03-15
+GUEDJ,Jérôme,1972-01-23,M,91,Essonne,9106,6Ème Circonscription,2024-07-08,Région,Île-De-France,,2021-07-02
+CERNON,Bérenger,1988-05-02,M,91,Essonne,9108,8Ème Circonscription,2024-07-08,Commune,Yerres (Essonne),,2026-03-15
+FAUCILLON,Elsa,1981-08-06,F,92,Hauts-De-Seine,9201,1Ère Circonscription,2024-07-01,Commune,Gennevilliers (Hauts-De-Seine),,2026-03-15
+LAM,Thomas,1981-10-22,M,92,Hauts-De-Seine,9202,2Ème Circonscription,2024-07-08,Département,Hauts-De-Seine,,2021-07-01
+JUVIN,Philippe,1964-02-01,M,92,Hauts-De-Seine,9203,3Ème Circonscription,2024-07-01,Commune,La Garenne-Colombes (Hauts-De-Seine),,2026-03-15
+SEBAIHI,Sabrina,1981-05-10,F,92,Hauts-De-Seine,9204,4Ème Circonscription,2024-07-08,Commune,Nanterre (Hauts-De-Seine),,2026-03-22
+CALVEZ,Céline,1979-07-24,F,92,Hauts-De-Seine,9205,5Ème Circonscription,2024-07-08,Commune,Levallois-Perret (Hauts-De-Seine),,2026-03-15
+LE GRIP,Constance,1960-11-14,F,92,Hauts-De-Seine,9206,6Ème Circonscription,2024-07-08,Commune,Neuilly-Sur-Seine (Hauts-De-Seine),,2026-03-15
+CAZENEUVE,Pierre,1995-03-11,M,92,Hauts-De-Seine,9207,7Ème Circonscription,2024-07-01,Commune,Rueil-Malmaison (Hauts-De-Seine),,2026-03-22
+THEVENOT,Prisca,1985-03-01,F,92,Hauts-De-Seine,9208,8Ème Circonscription,2024-07-08,Région,Île-De-France,,2021-07-21
+DE MAISTRE,Elisabeth,1975-10-07,F,92,Hauts-De-Seine,9209,9Ème Circonscription,2025-02-09,Commune,Boulogne-Billancourt (Hauts-De-Seine),,2026-03-22
+ATTAL,Gabriel,1989-03-16,M,92,Hauts-De-Seine,9210,10Ème Circonscription,2024-07-08,Commune,Vanves (Hauts-De-Seine),,2026-03-15
+SAINTOUL,Aurélien,1988-05-26,M,92,Hauts-De-Seine,9211,11Ème Circonscription,2024-07-01,Commune,Montrouge (Hauts-De-Seine),,2026-03-22
+GUILLERM,Carole,1987-01-08,F,92,Hauts-De-Seine,9212,12Ème Circonscription,2026-03-27,Région,Île-De-France,,2021-07-02
+GUILLERM,Carole,1987-01-08,F,92,Hauts-De-Seine,9212,12Ème Circonscription,2026-03-27,Commune,Châtillon (Hauts-De-Seine),,2026-03-15
+MONGARDIEN,Christophe,1963-01-09,M,92,Hauts-De-Seine,9213,13Ème Circonscription,2025-11-13,Commune,Antony (Hauts-De-Seine),,2026-03-22
+DIOUARA,Aly,1987-03-01,M,93,Seine-Saint-Denis,9305,5Ème Circonscription,2024-07-08,Commune,La Courneuve (Seine-Saint-Denis),Maire,2026-03-22
+LACHAUD,Bastien,1980-08-05,M,93,Seine-Saint-Denis,9306,6Ème Circonscription,2024-07-01,Commune,Aubervilliers (Seine-Saint-Denis),,2026-03-22
+KELOUA HACHI,Fatiha,1971-06-05,F,93,Seine-Saint-Denis,9308,8Ème Circonscription,2024-07-08,Commune,Rosny-Sous-Bois (Seine-Saint-Denis),,2026-03-22
+ABOMANGOLI,Nadège,1975-09-15,F,93,Seine-Saint-Denis,9310,10Ème Circonscription,2024-07-01,Commune,Bondy (Seine-Saint-Denis),,2026-03-22
+BERRIOS,Sylvain,1968-05-06,M,94,Val-De-Marne,9401,1Ère Circonscription,2024-07-08,Commune,Saint-Maur-Des-Fossés (Val-De-Marne),,2026-03-15
+PETIT,Maud,1971-11-15,F,94,Val-De-Marne,9404,4Ème Circonscription,2024-07-08,Commune,Villiers-Sur-Marne (Val-De-Marne),,2026-03-22
+TRYZNA,Nicolas,1987-12-15,M,94,Val-De-Marne,9407,7Ème Circonscription,2025-11-13,Département,Val-De-Marne,7ème Vice-président du conseil départemental,2021-07-01
+SANTIAGO,Isabelle,1965-09-20,F,94,Val-De-Marne,9409,9Ème Circonscription,2024-07-01,Département,Val-De-Marne,,2021-07-01
+HADIZADEH,Ayda,1982-02-12,F,95,Val-D'Oise,9502,2Ème Circonscription,2024-07-08,Commune,Saint-Ouen-L'Aumône (Val-D'Oise),,2026-03-15
+BLANCHARD,Benoît,1961-05-01,M,95,Val-D'Oise,9504,4Ème Circonscription,2025-11-13,Commune,Ermont (Val-D'Oise),,2026-03-22
+VANNIER,Paul,1985-09-19,M,95,Val-D'Oise,9505,5Ème Circonscription,2024-07-01,Région,Île-De-France,,2021-07-02
+BILONGO,Carlos Martens,1990-12-31,M,95,Val-D'Oise,9508,8Ème Circonscription,2024-07-01,Commune,Villiers-Le-Bel (Val-D'Oise),,2026-03-22
+SERVA,Olivier,1974-06-21,M,971,Guadeloupe,97101,1Ère Circonscription,2024-07-08,Commune,Les Abymes (Guadeloupe),,2026-03-15
+BAPTISTE,Christian,1962-06-18,M,971,Guadeloupe,97102,2Ème Circonscription,2024-07-08,Commune,Sainte-Anne (Guadeloupe),,2026-03-22
+CALIFER,Elie,1954-04-19,M,971,Guadeloupe,97104,4Ème Circonscription,2024-07-08,Département,Guadeloupe,,2021-07-01
+WILLIAM,Jiovanny,1985-06-03,M,972,Martinique,97201,1Ère Circonscription,2024-07-08,Commune,Le Robert (nan),,2026-03-22
+BELLAY,Beatrice,1975-07-25,F,972,Martinique,97203,3Ème Circonscription,2024-07-08,Commune,Fort-De-France (nan),,2026-03-22
+RIMANE,Davy,1979-12-15,M,973,Guyane,97302,2Ème Circonscription,2024-07-08,Commune,Kourou (nan),,2026-03-22
+NAILLET,Philippe,1960-08-14,M,974,La Réunion,97401,1Ère Circonscription,2024-07-08,Commune,Saint-Denis (La Réunion),,2026-03-15
+LEBON,Karine,1985-06-09,F,974,La Réunion,97402,2Ème Circonscription,2024-07-08,Commune,Saint-Paul (La Réunion),,2026-03-22
+RATENON,Jean-Hugues,1967-06-25,M,974,La Réunion,97405,5Ème Circonscription,2024-07-08,Région,La Réunion,,2021-07-02
+MAILLOT,Frédéric,1986-11-15,M,974,La Réunion,97406,6Ème Circonscription,2024-07-08,Région,La Réunion,,2021-07-02
+MAILLOT,Frédéric,1986-11-15,M,974,La Réunion,97406,6Ème Circonscription,2024-07-08,Commune,Sainte-Suzanne (La Réunion),,2026-03-22
+GENETET,Anne,1963-04-20,F,ZZ,Français Établis Hors De France,ZZ11,11Ème Circonscription,2025-01-24,Commune,Escamps (Lot),,2026-03-15
