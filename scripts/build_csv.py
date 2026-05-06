@@ -12,14 +12,32 @@ import requests
 import pandas as pd
 
 # ---------------------------------------------------------------------------
-# URLs RNE (mises à jour mensuellement par data.gouv.fr)
+# Découverte dynamique des URLs RNE via l'API data.gouv.fr
 # ---------------------------------------------------------------------------
-URLS = {
-    "deputes": "https://static.data.gouv.fr/resources/repertoire-national-des-elus-1/20260505-152059/elus-deputes-dep.csv",
-    "municipaux": "https://static.data.gouv.fr/resources/repertoire-national-des-elus-1/20260505-151851/elus-conseillers-municipaux-cm.csv",
-    "departementaux": "https://static.data.gouv.fr/resources/repertoire-national-des-elus-1/20260505-151941/elus-conseillers-departementaux-cd.csv",
-    "regionaux": "https://static.data.gouv.fr/resources/repertoire-national-des-elus-1/20260505-151954/elus-conseillers-regionaux-cr.csv",
+DATASET_API = "https://www.data.gouv.fr/api/1/datasets/5c34944606e3e73d4a551889/"
+
+RESOURCE_KEYWORDS = {
+    "deputes":       "elus-deputes",
+    "municipaux":    "elus-conseillers-municipaux",
+    "departementaux":"elus-conseillers-departementaux",
+    "regionaux":     "elus-conseillers-regionaux",
 }
+
+def fetch_latest_urls() -> dict:
+    print("Récupération des URLs depuis data.gouv.fr...")
+    r = requests.get(DATASET_API, timeout=30)
+    r.raise_for_status()
+    resources = r.json().get("resources", [])
+
+    urls = {}
+    for key, keyword in RESOURCE_KEYWORDS.items():
+        match = next((res["url"] for res in resources if keyword in res.get("url", "")), None)
+        if not match:
+            raise ValueError(f"Ressource introuvable pour : {keyword}")
+        print(f"  {key}: {match}")
+        urls[key] = match
+
+    return urls
 
 OUTPUT_PATH = "output/depute_double_mandats.csv"
 CHUNK_SIZE = 50_000  # lignes par chunk pour le fichier communes (~600k lignes)
@@ -102,26 +120,26 @@ def build_index_from_df(df: pd.DataFrame, type_mandat: str, index: dict) -> None
         index.setdefault(key, []).append(mandat)
 
 
-def build_local_index() -> dict:
+def build_local_index(urls: dict) -> dict:
     index = {}
 
     # Régionaux
     print("\n[1/3] Conseillers régionaux...")
-    data = download(URLS["regionaux"])
+    data = download(urls["regionaux"])
     df = read_csv_bytes(data)
     build_index_from_df(df, "Région", index)
     print(f"      {len(df)} lignes chargées")
 
     # Départementaux
     print("\n[2/3] Conseillers départementaux...")
-    data = download(URLS["departementaux"])
+    data = download(urls["departementaux"])
     df = read_csv_bytes(data)
     build_index_from_df(df, "Département", index)
     print(f"      {len(df)} lignes chargées")
 
     # Municipaux en chunks
     print("\n[3/3] Conseillers municipaux (fichier volumineux)...")
-    data = download(URLS["municipaux"])
+    data = download(urls["municipaux"])
     total = 0
     reader = pd.read_csv(
         io.BytesIO(data),
@@ -142,9 +160,9 @@ def build_local_index() -> dict:
 # ---------------------------------------------------------------------------
 # Traitement des députés
 # ---------------------------------------------------------------------------
-def load_deputes() -> pd.DataFrame:
+def load_deputes(urls: dict) -> pd.DataFrame:
     print("\n[Députés] Chargement...")
-    data = download(URLS["deputes"])
+    data = download(urls["deputes"])
     df = read_csv_bytes(data)
     print(f"  {len(df)} députés chargés")
 
@@ -202,8 +220,9 @@ def main():
     print("depute_double_mandats — build_csv.py")
     print("=" * 60)
 
-    local_index = build_local_index()
-    deputes = load_deputes()
+    urls = fetch_latest_urls()
+    local_index = build_local_index(urls)
+    deputes = load_deputes(urls)
     result = build_output(deputes, local_index)
 
     if result.empty:
