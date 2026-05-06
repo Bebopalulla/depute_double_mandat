@@ -14,39 +14,23 @@ import pandas as pd
 # ---------------------------------------------------------------------------
 # Découverte dynamique des URLs RNE via l'API data.gouv.fr
 # ---------------------------------------------------------------------------
-DATASET_API = "https://www.data.gouv.fr/api/1/datasets/5c34944606e3e73d4a551889/"
-
-RESOURCE_KEYWORDS = {
-    "deputes":        "deputés",
-    "municipaux":     "municipaux",
-    "departementaux": "départementaux",
-    "regionaux":      "régionaux",
+# ---------------------------------------------------------------------------
+# URLs permanentes RNE (champ "latest" de data.gouv.fr — ne changent jamais)
+# Le fichier derrière est mis à jour automatiquement à chaque publication.
+# ---------------------------------------------------------------------------
+URLS = {
+    "deputes":        "https://www.data.gouv.fr/api/1/datasets/r/1ac42ff4-1336-44f8-a221-832039dbc142",
+    "municipaux":     "https://www.data.gouv.fr/api/1/datasets/r/d5f400de-ae3f-4966-8cb6-a85c70c6c24a",
+    "departementaux": "https://www.data.gouv.fr/api/1/datasets/r/601ef073-d986-4582-8e1a-ed14dc857fba",
+    "regionaux":      "https://www.data.gouv.fr/api/1/datasets/r/430e13f9-834b-4411-a1a8-da0b4b6e715c",
 }
 
 def fetch_latest_urls() -> dict:
-    print("Récupération des URLs depuis data.gouv.fr...")
-    r = requests.get(DATASET_API, timeout=30)
-    r.raise_for_status()
-    resources = r.json().get("resources", [])
-
-    # Debug : afficher tous les titres disponibles
-    print("  Ressources disponibles :")
-    for res in resources:
-        print(f"    - {res.get('title', '(sans titre)')}")
-
-    urls = {}
-    for key, keyword in RESOURCE_KEYWORDS.items():
-        match = next(
-            (res.get("latest") or res.get("url") for res in resources
-             if keyword.lower() in res.get("title", "").lower()),
-            None
-        )
-        if not match:
-            raise ValueError(f"Ressource introuvable pour : {keyword}")
-        print(f"  {key}: {match}")
-        urls[key] = match
-
-    return urls
+    """Retourne les URLs — permanentes, pas de résolution dynamique nécessaire."""
+    print("URLs RNE (permanentes data.gouv.fr) :")
+    for key, url in URLS.items():
+        print(f"  {key}: {url}")
+    return URLS
 
 OUTPUT_PATH = "output/depute_double_mandats.csv"
 CHUNK_SIZE = 50_000  # lignes par chunk pour le fichier communes (~600k lignes)
